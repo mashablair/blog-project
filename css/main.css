@@ -1,0 +1,35 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+body {
+    /*background-color: #B3E5FC;*/
+    font-family: 'Lobster', cursive;
+}
+
+article {
+    width: 50em;
+    margin: auto;
+    border-bottom: 1px solid #aaa;
+
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 10vw;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
