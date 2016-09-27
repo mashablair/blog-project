@@ -1,5 +1,7 @@
 # Responsive Images: final version #
 
+Link to the live site: https://mashablair.github.io/blog-project/
+
 This version uses the picture element for art direction: different image crops are loaded, depending on viewport size.
 
 The images still use `max-width: 100%` – which means 'expand the image display size to fit the container, but no larger than the natural width of the image'. What defines the size of the body images? You can find out with the Dev Tools.
